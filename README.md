@@ -411,13 +411,5 @@ For questions or issues, please:
 - Open an issue on GitHub
 - Contact: pchowdhury6@gatech.edu
 
-## 🔗 Links
-
-- [Paper 1: NeurIPS 2023 Workshop](https://openreview.net/forum?id=example)
-- [Paper 2: Geophysics Journal](https://doi.org/10.1190/geo2024-0020.1)
-- [OLIVES Lab](https://ghassanalregib.info/)
-- [Georgia Tech ECE](https://ece.gatech.edu/)
-
----
 
 **Keywords**: XAI, Explainability, Interpretability, LIME, SHAP, Necessity, Sufficiency, Counterfactuals, Tabular Data, Machine Learning, Robustness
